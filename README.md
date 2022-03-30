@@ -78,6 +78,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://fb.me/tegar.coffeecode"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tegar Sabila-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/tegar.coffeecode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Project-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/tegarsabila_id.svg?style=social)](https://twitter.com/tegarsabila_id)
+
 </p>
 <br/>
 
