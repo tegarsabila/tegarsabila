@@ -10,6 +10,9 @@
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=tegarsabila&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="tegarsabila" />
 
+<a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
 <h3 align="center">I'm a student Full Stack Developer from Indonesia.</h3>
 
