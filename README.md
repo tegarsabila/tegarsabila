@@ -12,11 +12,7 @@
 
 <a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 
-<p align='center'>
-<a href="https://api.daily.dev/get?r=tegarsabila"><img height="200" src="https://raw.githubusercontent.com/tegarsabila/tegarsabila/main/root.svg"></a>
-<img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tegarsabila/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
-
-</p>
+<p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg?r=82s" width="150" alt"tegarsabila's Dev Card"/></a></p>
 
 
 
