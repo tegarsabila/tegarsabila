@@ -6,6 +6,9 @@
 
 ![Tegarsabila's card name](https://cardivo.vercel.app/api?name=Tegar%20Sabila&description=Hi,%20i%27m%20a%20Software%20developer%20and%20i%27m%20from%20Indonesian.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/6fa5de9dc23b1973d9d64.png?v=4&backgroundColor=%23ecf0f1&instagram=tegarsabila.id&linkedin=tegar-sabila-71740b218&github=tegarsabila&twitter=asahikimura24_&pattern=leaf&colorPattern=%23eaeaea)
 
+![Metrics](https://metrics.lecoq.io/tegarsabila?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+<p align='center'><img src="https://komarev.com/ghpvc/?username=tegarsabila&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="tegarsabila" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
 <h3 align="center">I'm a student Full Stack Developer from Indonesia.</h3>
