@@ -15,12 +15,23 @@
 <p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg?r=82s" width="150" alt"tegarsabila's Dev Card"/></a></p>
 
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=tegarsabila)
 
+:page_with_curl: I'm currently learning:
+- Python
+- Flask
+- PHP
+- Laravel
+- HTML
+- CSS
+- Javascript
+- JAVA
+- C++
 
-
+# Details
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
-<h3 align="center">I'm a student Full Stack Developer from Indonesia.</h3>
+<h3 align="center">I'm a student Software Developer from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
@@ -28,15 +39,13 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at SMK Komputer Indonesia.
 - 📚 I’m currently learning  backend web development using NodeJS, PHP and Sqlite and I learning Network Fundamental.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [WhatsApp](https://wa.me/6281313894097) [Gmail](mailto:tegarsabila11@gmail.com)
+- 📫 How to reach me: [WhatsApp](https://wa.me/6289516271322) or [Gmail](mailto:tegarsabila11@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![PHP (Statistics)](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=276DC3)
 - 🌐 &nbsp;
@@ -93,24 +102,13 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://fb.me/tegar.coffeecode"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tegar Sabila-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/tegar.coffeecode/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Project-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-<br/>
-
-## Dev Card
-<a href="https://app.daily.dev/tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg" width="400" alt="Tegar Sabila's Dev Card"/></a>
+- <a href="https://fb.me/asahikimura.id"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Asahi Kimura-blue?style=flat-square&logo=facebook"></a>
+- <a href="https://www.instagram.com/tegarsabila.id/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Sabila-blue?style=flat-square&logo=instagram"></a>
+- <a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <br/>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tegarsabila">
-</a>
-<a href="https://github.com/tegarsabila?tab=followers"><img src="https://img.shields.io/github/followers/tegarsabila?label=Followers&style=social" alt="GitHub Badge" /></a>
+## ❤ Followers
 
-
-⭐️ From [Tegar Sabila](https://github.com/tegarsabila)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tegarsabila_id.svg?style=social)](https://twitter.com/tegarsabila_id)
+- Github: <a href="https://github.com/tegarsabila?tab=followers"><img src="https://img.shields.io/github/followers/tegarsabila?label=Followers&style=social" alt="GitHub Badge" /></a>
+- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/asahikimura24_.svg?style=social)](https://twitter.com/asahikimura24_)
