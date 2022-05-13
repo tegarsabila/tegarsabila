@@ -12,6 +12,16 @@
 
 <a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 
+<p align='center'>
+<a href="https://api.daily.dev/get?r=tegarsabila"><img height="200" src="https://raw.githubusercontent.com/tegarsabila/tegarsabila/main/root.svg"></a>
+<img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tegarsabila/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
+
+</p>
+
+
+
+
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
 <h3 align="center">I'm a student Full Stack Developer from Indonesia.</h3>
