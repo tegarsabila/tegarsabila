@@ -1,5 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Selamat+datang+di+github+Tegar" />
+</p>
+
+<p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://telegra.ph/file/6fa5de9dc23b1973d9d64.png?r=82s" width="150" alt="Tegar Sabila's Dev Card"/></a></p>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
 <h3 align="center">I'm a student Full Stack Developer from Indonesia.</h3>
 
