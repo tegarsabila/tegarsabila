@@ -111,4 +111,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 ## ❤ Followers
 
 - Github: <a href="https://github.com/tegarsabila?tab=followers"><img src="https://img.shields.io/github/followers/tegarsabila?label=Followers&style=social" alt="GitHub Badge" /></a>
-- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/asahikimura24_.svg?style=social)](https://twitter.com/asahikimura24_)
+- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/tegarsabila_.svg?style=social)](https://twitter.com/tegarsabila_)
