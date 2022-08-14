@@ -4,34 +4,27 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://telegra.ph/file/6fa5de9dc23b1973d9d64.png?r=82s" width="150" alt="Tegar Sabila's Dev Card"/></a></p>
 
-![Tegarsabila's card name](https://cardivo.vercel.app/api?name=Tegar%20Sabila&description=Hi,%20i%27m%20a%20Software%20developer%20from%20Indonesian.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/6fa5de9dc23b1973d9d64.png?v=4&backgroundColor=%23ecf0f1&instagram=tegarsabila.id&linkedin=tegar-sabila-71740b218&github=tegarsabila&twitter=asahikimura24_&pattern=leaf&colorPattern=%23eaeaea)
 
 ![Metrics](https://metrics.lecoq.io/tegarsabila?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=tegarsabila&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="tegarsabila" />
 
-<a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-
-<p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://github.com/tegarsabila/tegarsabila/blob/main/devcard.svg?r=82s" width="150" alt"tegarsabila's Dev Card"/></a></p>
-
+<a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://opencollective.com/react/contributors.svg?width=900" /></a>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=tegarsabila)
 
 :page_with_curl: I'm currently learning:
 - Python
 - Flask
-- PHP
-- Laravel
+- Javascript
+- Reactjs
 - HTML
 - CSS
-- Javascript
-- JAVA
-- C++
 
 # Details
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tegar Sabila</h1>
-<h3 align="center">I'm a student Software Developer from Indonesia.</h3>
+<h3 align="center">I'm a student Web Developer from Indonesia.</h3>
 
 ## 🙋‍♂️ About Me
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
@@ -45,15 +38,15 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![PHP (Statistics)](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=276DC3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma&logoColor=563D7C)
+  ![Reactjs](https://img.shields.io/badge/-Reactjs-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -61,6 +54,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -102,7 +96,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- <a href="https://fb.me/asahikimura.id"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Asahi Kimura-blue?style=flat-square&logo=facebook"></a>
+- <a href="https://fb.me/tegarsabila.page"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Tegar Sabila-blue?style=flat-square&logo=facebook"></a>
 - <a href="https://www.instagram.com/tegarsabila.id/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Tegar Sabila-blue?style=flat-square&logo=instagram"></a>
 - <a href="mailto: tegarsabila11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tegarsabila11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
