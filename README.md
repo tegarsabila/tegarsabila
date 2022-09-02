@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Selamat+datang+di+github+Tegar" />
+<p align="start">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%1A5B1F&center=true&vCenter=true&lines=root@tegarsabila$+cd+myGithub" />
 </p>
 
 <p align='center'><a href="https://api.daily.dev/get?r=tegarsabila"><img src="https://telegra.ph/file/6fa5de9dc23b1973d9d64.png?r=82s" width="150" alt="Tegar Sabila's Dev Card"/></a></p>
